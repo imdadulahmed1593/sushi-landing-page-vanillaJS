@@ -2,7 +2,7 @@
 
 This is a simple landing page for a sushi restaurant, built using vanilla JavaScript.
 
-![The landing page of Sushi Lover](/assets/web.png)
+![The landing page of Sushi Lover](/assets/web2.png)
 
 ## Table of Contents
 
