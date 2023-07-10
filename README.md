@@ -28,9 +28,9 @@ To install and run the Sushi Landing Page locally, follow these steps:
 2. Navigate into the project directory:
 
    ```bash
-  cd sushi-landing-page-vanillaJS
+   cd sushi-landing-page-vanillaJS
 
-3. Open the index.html file in your web browser.
+3. Open the **index.html** file in your web browser.
 
 That's it! You should now be able to view the Sushi Landing Page locally on your machine.
 
@@ -38,9 +38,9 @@ That's it! You should now be able to view the Sushi Landing Page locally on your
 
 The Sushi Landing Page is designed to be intuitive and easy to use. Here are some key features and instructions on how to use them:
 
-- Navigation: Use the navigation menu at the top of the page to navigate to different sections of the landing page. Clicking on a menu item will smoothly scroll to the corresponding section.
-- Call-to-Action: The landing page includes a prominent call-to-action button that invites users to take action, such as making a reservation or exploring the menu. Clicking on the button will trigger the desired action.
-- Contact Form: At the bottom of the landing page, there is a contact form for users to get in touch with the restaurant. Fill in the required information and click the "Submit" button to send the form.
+- **Navigation**: Use the navigation menu at the top of the page to navigate to different sections of the landing page. Clicking on a menu item will smoothly scroll to the corresponding section.
+- **Call-to-Action**: The landing page includes a prominent call-to-action button that invites users to take action, such as making a reservation or exploring the menu. Clicking on the button will trigger the desired action.
+- **Contact Form**: At the bottom of the landing page, there is a contact form for users to get in touch with the restaurant. Fill in the required information and click the "Submit" button to send the form.
 Feel free to explore the page, interact with the elements, and enjoy the sushi-themed experience!
 
 ## Contributing
