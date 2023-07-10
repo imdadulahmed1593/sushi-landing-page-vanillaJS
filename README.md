@@ -2,6 +2,8 @@
 
 This is a simple landing page for a sushi restaurant, built using vanilla JavaScript.
 
+![The landing page of Sushi Lover](/assets/web.png)
+
 ## Table of Contents
 
 - [Description](#description)
